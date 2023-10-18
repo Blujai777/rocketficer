@@ -1,0 +1,6 @@
+D:\Users\jaide\source\repos\rocketficer\bin\Debug\rocketficer.dll
+D:\Users\jaide\source\repos\rocketficer\bin\Debug\rocketficer.pdb
+D:\Users\jaide\source\repos\rocketficer\obj\Debug\rocketficer.csproj.AssemblyReference.cache
+D:\Users\jaide\source\repos\rocketficer\obj\Debug\rocketficer.csproj.CoreCompileInputs.cache
+D:\Users\jaide\source\repos\rocketficer\obj\Debug\rocketficer.dll
+D:\Users\jaide\source\repos\rocketficer\obj\Debug\rocketficer.pdb
